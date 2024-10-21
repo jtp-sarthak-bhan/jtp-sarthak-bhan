@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working in **JTP Co. Ltd.**
+- 🔭 I’m currently working in **JTP** **Co.,** **Ltd.**
 
 - 🌱 I’m currently learning **Cloud and AI-ML**
 
