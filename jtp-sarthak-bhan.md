@@ -3,17 +3,17 @@
 </div>
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px" height="30px">, I'm <strong>Sarthak Bhan</strong></h1>
-<h3 align="center">I'm a passionate Web and AI/ML Developer from India.</h3>
+<h3 align="center">I'm a passionate Web and AI/ML Developer from JTP.Co.Ltd.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Freelancing Projects** and **Open Source Projects**
+- 🔭 I’m currently working in **JTP Co. Ltd.**
 
-- 🌱 I’m currently learning **MERN and AI-ML and Web3**
+- 🌱 I’m currently learning **Cloud and AI-ML**
 
 - 🎯 I’m looking to collaborate on **Open Source Projects** and **StackOverflow**
 
-- 📫 How to reach me **sarthak.bhan07@gmail.com**
+- 📫 How to reach me **Sarthak.Bhan@jtp.co.jp**
 
 - ⚡ Fun fact **I play online Games + I'm Funny 😏**
 
