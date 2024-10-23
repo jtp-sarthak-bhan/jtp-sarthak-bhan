@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px" height="30px">, I'm <strong>Sarthak Bhan</strong></h1>
-<h3 align="center">I'm a passionate Web and AI/ML Developer from JTP.Co.Ltd.</h3>
+<h3 align="center">I'm a System Engineer JTP.Co.Ltd.</h3>
 
 ## 🙋‍♂️ About Me
 
